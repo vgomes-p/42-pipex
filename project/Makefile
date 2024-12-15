@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 NAME		=	pipex
-CC			=	gcc
+CC			=	cc
 FLAGS		=	-Wall -Wextra -Werror -I $(H_DIR) -I $(LIBFT_DIR)
 RM			=	rm -rf
 
