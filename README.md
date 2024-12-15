@@ -4,6 +4,6 @@
 ### Data de início:
 Eu iniciei o trabalho na gnl dia 29 de Novembro de 2024.
 ### Data de entrega:
-Ainda não validei o projeto.
+Validei o projeto no dia 13 de Dezembro de 2024.
 
 ![print_intra](assets/pipex.png)
